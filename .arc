@@ -5,6 +5,7 @@ jump-68z
 
 @http
 post /graphql
+get /about
 
 @tables
 data
